@@ -1,0 +1,30 @@
+*{
+    background: beige;
+    font-family: sans-serif;
+}
+#final{
+    visibility: hidden;
+}
+#end{
+    visibility: hidden;
+}
+
+#head{
+    text-align: center;
+    border: 5px solid black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button{
+    background-color: white;
+}
+
+#quiz-questions{
+    text-align: center;
+}
+
+#final{
+    text-align: center;
+}
